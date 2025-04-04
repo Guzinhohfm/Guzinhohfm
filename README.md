@@ -1,6 +1,6 @@
 ## Olá, sou o Gustavo Moreira 👋
 
-- 🔭 Atualmente trabalho como estagiário de engenharia de software no Banco Pan utilizando principalmente as tecnologias: .Net, SQL Server, MySQL, Kafka, API, Kubernetes(Docker, Jenkins), Azure DevOps
+- 🔭 Atualmente trabalho como engenheiro de software Júnior no Banco Pan utilizando principalmente as tecnologias: .Net, SQL Server, MySQL, Kafka, API, Kubernetes(Docker, Jenkins), Azure DevOps
 - 🌱 No momento estou estudando um pouco mais sobre as tecnologias .NET, Docker, ASP Net Core, React e conceitos importantes para um bom programador tais como: SOLID, Design Pattern e outras boas práticas
 - 📫 Contatos: (11) 95540-5746 -- g.ferreira.moreira2@gmail.com
 
